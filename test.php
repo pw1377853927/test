@@ -1,2 +1,2 @@
 <?php
-echo phpinfo();
+echo "12h1231j";
